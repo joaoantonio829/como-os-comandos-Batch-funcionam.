@@ -1,0 +1,1 @@
+# como-os-comandos-Batch-funcionam.
